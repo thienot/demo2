@@ -23,7 +23,7 @@ class _DemoAppState extends State<DemoApp> {
         actions: [
           ElevatedButton(
               onPressed: (){},
-              child: Text('Search'),
+              child: Text('Searc'),
           )
         ],
       ),
